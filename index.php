@@ -11,6 +11,7 @@ echo date('d-m-Y H:i:s') . "<br />";
 
 require_once 'template.php';
 
+
 ?>
 
 <p>Some text... <?= $currentDate ?></p>
